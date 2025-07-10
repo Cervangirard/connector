@@ -5,7 +5,7 @@ Authors@R: c(
     person("Cervan", "Girard", , "cgid@novonordisk.com", role = c("aut", "cre")),
     person("Aksel", "Thomsen", , "oath@novonordisk.com", role = "aut"),
     person("Vladimir", "Obucina", , "vlob@novonordisk.com", role = "aut"), 
-    person("Novo Nordisk A/S", role = "cph")
+    person("Novo Nordisk A/S", role = "cph")  
   )
 Description: Provides a consistent interface for connecting R to various 
     data sources including file systems and databases. 
